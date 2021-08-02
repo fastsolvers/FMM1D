@@ -32,9 +32,9 @@
 # Authors
 Any questions or feedbacks are welcomed!
 
-- Xiaofeng Ou: ou17@purdue.edu
-- Jianlin Xia: xiaj@purdue.edu
-- Difeng Cai: difeng.cai@emory.edu
+- Xiaofeng Ou: ou17  -at-  purdue.edu
+- Difeng Cai: difeng.cai  -at-  emory.edu
+- Jianlin Xia: xiaj  -at-  purdue.edu
 
 
 # License
