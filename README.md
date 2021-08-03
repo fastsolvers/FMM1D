@@ -11,22 +11,22 @@
 
 # Usage
 
-1. **fmm1d.m**
+1. **src/fmm1d.m**
 * stable 1D FMM for general points on real line 
 
-2. **trifmm1d.m** 
+2. **src/trifmm1d.m** 
 * stable 1D triangular FMM  for interlacing points 
 
-3. **fmm1d_local_shift.m**
+3. **src/fmm1d_local_shift.m**
 * stable 1D FMM with local shifting for interlacing points 
 
-4. **fmm1d_local_shift_2.m**
+4. **src/fmm1d_local_shift_2.m**
 * stable 1D FMM with local shifting for interlacing points 
 
-5. **trifmm1d_local_shift.m**
+5. **src/trifmm1d_local_shift.m**
 * stable 1D triangular FMM with local shifting for interlacing points 
 
-6. **trifmm1d_local_shift_2.m**
+6. **src/trifmm1d_local_shift_2.m**
 * stable 1D triangular FMM with local shifting for interlacing points 
 
 # Authors
