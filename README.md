@@ -5,6 +5,8 @@
 
 - Local shifting in FMM
 
+*Provided as is. No warranty. No liability.*
+
 # References
 - D Cai, J Xia, *A Stable Matrix Version of the Fast Multipole Method*, submitted
 - X.Ou, J.Xia, *SuperDC: Stable superfast divide-and-conquer eigenvalue decomposition*, submitted
@@ -35,7 +37,3 @@ Any questions or feedbacks are welcomed!
 - Xiaofeng Ou: ou17  -at-  purdue.edu
 - Difeng Cai: difeng.cai  -at-  emory.edu
 - Jianlin Xia: xiaj  -at-  purdue.edu
-
-
-# License
-GNU General Public License v3.0
