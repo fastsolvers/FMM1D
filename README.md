@@ -13,8 +13,8 @@ Any questions or feedbacks are welcomed!
 - Jianlin Xia: xiaj  -at-  purdue.edu
 
 # References
-- D. Cai and J. Xia, *A stable matrix version of the fast multipole method: stabilization strategies and examples*, submitted
-- X. Ou and J. Xia, *SuperDC: Stable superfast divide-and-conquer eigenvalue decomposition*, submitted
+- D. Cai and J. Xia, *A stable matrix version of the fast multipole method: stabilization strategies and examples*, submitted.
+- X. Ou and J. Xia, *SuperDC: Stable superfast divide-and-conquer eigenvalue decomposition*, submitted (2021), arXiv:2108.04209.
 
 # Usage
 
