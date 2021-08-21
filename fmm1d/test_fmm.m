@@ -1,4 +1,4 @@
-addpath('../FMM1D')
+addpath(genpath('../fmm1d'))
 
 fun = 1;                               % see Ker below
 local_shift = false;            % using local shifting or not                      
